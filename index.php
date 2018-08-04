@@ -125,7 +125,7 @@
                 <div class="row">
                     <div class="row">
                     <label for="address"><b>Address</b></label>
-                    <input type="text" pattern="[a-zA-Z0-9_-]{1,40}" class="widefat-main" placeholder="up to 40 chars only" name="address" required>
+                    <input type="text" pattern="[a-zA-Z0-9_-. ]{1,40}" class="widefat-main" placeholder="up to 40 chars only" name="address" required>
                     <label for="zip"><b>Zip Code</b></label>
                     <input type="text" pattern="[0-9]{5}" class="widefat-main" placeholder="5 digit zip" name="zip" required>
                 </div>
