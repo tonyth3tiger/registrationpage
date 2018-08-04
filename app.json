@@ -1,0 +1,16 @@
+{
+  "name": "serene-everglades-65752",
+  "description": "642 registration page",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
