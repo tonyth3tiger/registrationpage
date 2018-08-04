@@ -172,7 +172,7 @@
                 <hr>
                 <p>By creating an account you agree to our <a href="terms.php">Terms & Privacy</a>.</p>
 
-                <div class="g-recaptcha" data-sitekey="6Lf0CFEUAAAAABWkxWHS4x3UtoQcUFaHlYsZj9mK"></div>
+                <div class="g-recaptcha" data-sitekey="6LfjMWgUAAAAAGJ4UcWNWfyiAZceGGB6nHotwzMH"></div>
 
                 <button type="submit" class="registerbtn"><a href=confirm.php">Register</button>
             </div>
