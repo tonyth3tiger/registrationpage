@@ -174,7 +174,7 @@
 
                 <div class="g-recaptcha" data-sitekey="6Lf0CFEUAAAAABWkxWHS4x3UtoQcUFaHlYsZj9mK"></div>
 
-                <button type="submit" class="registerbtn">Register</button>
+                <button type="submit" class="registerbtn"><a href=confirm.php">Register</button>
             </div>
 
 
